@@ -1,0 +1,2 @@
+Time Complexity = O(n log n) where n = number of tasks
+Space Complexity = O(n + d) where d = depth of heirarchy
